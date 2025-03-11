@@ -1,0 +1,2 @@
+	.data
+	.asciz "Hello!\n"
